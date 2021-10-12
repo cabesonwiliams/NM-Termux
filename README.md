@@ -23,11 +23,11 @@ Although Nmap has evolved over the years and is extremely flexible, at its core 
 > 
 > 
    
-    $ pkg install python
+    $ pkg install python 
    
-    $ pkg install nmap 
+    $ pkg install nmap -y
      
-    $ pkg install git
+    $ pkg install git -y
    
     $ git clone https://github.com/cabesonwiliams/NM-Termux.git
     
