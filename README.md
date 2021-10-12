@@ -41,6 +41,8 @@ Although Nmap has evolved over the years and is extremely flexible, at its core 
 --------------------------------
 	
 # by cabeson sin z
-	 others version 
+	 Other versions 
+	 Version en español
 	 https://github.com/cabesonwiliams/NMscript
+	 Version in english
 	 https://github.com/cabesonwiliams/NMscript-EN-
