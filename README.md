@@ -29,9 +29,9 @@ Although Nmap has evolved over the years and is extremely flexible, at its core 
      
     $ pkg install git
    
-    $ git clone https://github.com/cabesonwiliams/NMscript-EN-.git 
+    $ git clone https://github.com/cabesonwiliams/NM-Termux.git
     
-    $ cd NMscript   
+    $ cd NMsc   
 	
     $ python3 NMscript.py
 	
