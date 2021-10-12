@@ -1,1 +1,1 @@
-# A
+# NMscript termux version
