@@ -31,7 +31,7 @@ Although Nmap has evolved over the years and is extremely flexible, at its core 
    
     $ git clone https://github.com/cabesonwiliams/NM-Termux.git
     
-    $ cd NMux   
+    $ cd NM-Termux   
 	
     $ python3 NMux.py
 	
