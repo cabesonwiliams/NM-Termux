@@ -35,7 +35,7 @@ Although Nmap has evolved over the years and is extremely flexible, at its core 
 	
     $ python3 NMux.py
 	
-    /For its correct operation installpython and nmap on your OS/
+    /For its correct operation install python and nmap on your OS/
 	
 
 --------------------------------
