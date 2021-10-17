@@ -342,7 +342,7 @@ def script():
  [000] Back to Main Menu                                                                            
     ''')
     print(banner)
-    opcion = input("\033[1;36m"+' Seleciona una opcion\n >> ')     
+    opcion = input("\033[1;36m"+' Select an option\n>> ')     
 
     if opcion == "001":
         print('Disclaimer: This can take a long time as it is a brute force attack ')
