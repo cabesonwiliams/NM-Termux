@@ -122,7 +122,7 @@ def nmap():
         os.system("clear")
         print("\033[1;36m" + banner1)
         s = input("\033[1;36m" +"Enter an ip \n>> ")
-        os.system(f'nmap -Pn -A  {s}')
+        os.system(f'nmap -Pn -A -sV {s}')
         time.sleep(15)
         input("\033[1;36m" +'Press Any Button To Return To The Menu\n>> ') 
         nmap()
